@@ -1,2 +1,2 @@
 # OurCities
-GeoCities-inspired community website project
+GeoCities-inspired community website for IEEE@UCR members
