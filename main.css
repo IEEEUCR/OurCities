@@ -54,6 +54,10 @@ body {
 #navbar a, #navbar a:active, #navbar a:hover { 
     color:white;
 }
+#navbar a:hover {
+    background-color: #2fceeb;
+    background-color: #33bed6;
+}
 #main {
     padding-top:24px;
     padding-left: 64px;
